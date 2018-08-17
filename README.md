@@ -13,6 +13,7 @@ In the current project folder instal react-redux.
 
 ```
 npm install --save react-redux redux
+npm install --save redux-thunk
 ```
 
 
